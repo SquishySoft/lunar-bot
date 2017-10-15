@@ -1,0 +1,11 @@
+{
+  "name": "lunar-bot",
+  "version": "1.0.0",
+  "description": "Private Discord bot for FYV",
+  "main": "bot.js",
+  "author": "Felli",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^2.4.0"
+  }
+}
